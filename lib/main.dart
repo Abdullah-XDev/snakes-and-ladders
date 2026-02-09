@@ -278,7 +278,7 @@ color: Colors.black.withOpacity(0.88),
 child: Column(mainAxisAlignment: MainAxisAlignment.center, children: [
 const Text("🎉", style: TextStyle(fontSize: 72)),
 const SizedBox(height: 10),
-Text("از اللاعب $winner!", style: TextStyle(color: wc, fontSize: 40,
+Text("فاز اللاعب $winner!", style: TextStyle(color: wc, fontSize: 40,
 fontWeight: FontWeight.bold, shadows: [Shadow(color: wc, blurRadius: 18)]),
 textAlign: TextAlign.center),
 const SizedBox(height: 6),
