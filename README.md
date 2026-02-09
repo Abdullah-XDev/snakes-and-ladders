@@ -17,10 +17,12 @@
 
 ## 📸 لقطات الشاشة
 
-<img width="830" height="1748" alt="image" src="https://github.com/user-attachments/assets/6879c81c-7d79-4dcf-8a81-9ef182c6c3b0" />
-<img width="830" height="1748" alt="image" src="https://github.com/user-attachments/assets/1e5b6ac5-5033-4181-91f0-225eda23a65e" />
-<img width="830" height="1748" alt="image" src="https://github.com/user-attachments/assets/28bb4e09-a565-47f2-ac78-200cf9e5c0d4" />
-<img width="830" height="1748" alt="image" src="https://github.com/user-attachments/assets/616d4612-5bf0-4836-9fca-997f02318561" />
+<img width="415" height="874" alt="image" src="https://github.com/user-attachments/assets/6879c81c-7d79-4dcf-8a81-9ef182c6c3b0" />
+<img width="415" height="874" alt="image" src="https://github.com/user-attachments/assets/1e5b6ac5-5033-4181-91f0-225eda23a65e" />
+<img width="415" height="874" alt="image" src="https://github.com/user-attachments/assets/28bb4e09-a565-47f2-ac78-200cf9e5c0d4" />
+<img width="415" height="874" alt="image" src="https://github.com/user-attachments/assets/616d4612-5bf0-4836-9fca-997f02318561" />
+<img width="415" height="874" alt="Screenshot 2026-02-09 at 2 03 31 PM" src="https://github.com/user-attachments/assets/3058ed38-cc6a-4189-8a12-3287a0bd38d9" />
+
 
 
 ## 🎯 قواعد اللعبة
