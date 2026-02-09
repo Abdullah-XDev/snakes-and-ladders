@@ -17,7 +17,11 @@
 
 ## 📸 لقطات الشاشة
 
-*قريباً - أضف لقطات شاشة من اللعبة هنا*
+<img width="830" height="1748" alt="image" src="https://github.com/user-attachments/assets/6879c81c-7d79-4dcf-8a81-9ef182c6c3b0" />
+<img width="830" height="1748" alt="image" src="https://github.com/user-attachments/assets/1e5b6ac5-5033-4181-91f0-225eda23a65e" />
+<img width="830" height="1748" alt="image" src="https://github.com/user-attachments/assets/28bb4e09-a565-47f2-ac78-200cf9e5c0d4" />
+<img width="830" height="1748" alt="image" src="https://github.com/user-attachments/assets/616d4612-5bf0-4836-9fca-997f02318561" />
+
 
 ## 🎯 قواعد اللعبة
 
