@@ -46,7 +46,7 @@
 1. **استنساخ المشروع:**
 
 ```bash
-git clone https://github.com/Abdullah-XDev/snakes-and-ladders.git
+git clone https://github.com/Abdullah-XDev/Snakes-And-Ladders.git
 cd snakes-and-ladders
 ```
 
@@ -158,7 +158,7 @@ final Map<int, int> snakes = {
 
 ## 🐛 الإبلاغ عن مشاكل
 
-إذا وجدت أي مشكلة أو لديك اقتراح، يرجى فتح [Issue](https://github.com/Abdullah-XDev/snakes-and-ladders/issues) جديد.
+إذا وجدت أي مشكلة أو لديك اقتراح، يرجى فتح [Issue](https://github.com/Abdullah-XDev/Snakes-And-Ladders.git) جديد.
 
 #.
 
